@@ -1,4 +1,7 @@
-# api documentation for  [react-mixin (v3.0.5)](https://github.com/brigand/react-mixin)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-mixin.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-mixin) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-mixin.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-mixin)
+# npmdoc-react-mixin
+
+#### api documentation for  [react-mixin (v3.0.5)](https://github.com/brigand/react-mixin)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-mixin.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-mixin) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-mixin.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-mixin)
+
 #### ![travis](https://travis-ci.org/brigand/react-mixin.svg)
 
 [![NPM](https://nodei.co/npm/react-mixin.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/react-mixin)
